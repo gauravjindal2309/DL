@@ -3,7 +3,7 @@ A comprehensive approach on recognizing emotion (sentiment) from a certain tweet
 The 'Untitled.ipynb' file consists of a jupyter notebook of test codes.
 Rest of the .py files consist of code corresponding to their names.
 
-Find the complete explanation to the approach here https://medium.com/@ankushraut/artificial-neural-network-for-text-classification-b7aa5994d985.
+
 
 **Problem Statement**
 
